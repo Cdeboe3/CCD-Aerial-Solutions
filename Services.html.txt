@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Services | CCD Aerial Solutions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <img src="logo.png" class="logo">
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h1>Our Services</h1>
+
+  <h3>Custom Flying</h3>
+  <p>Tailored drone flights designed around your specific needs.</p>
+
+  <h3>Real Estate Flying</h3>
+  <p>High-quality aerial photos and videos for residential and commercial listings.</p>
+
+  <h3>Construction Flying</h3>
+  <p>Progress tracking, site overviews, and documentation.</p>
+
+  <h3>Land Flying</h3>
+  <p>Aerial imaging for farms, hunting land, timber, and large acreage.</p>
+
+  <h3>Event Coverage</h3>
+  <p>Professional aerial coverage for weddings, community events, and special occasions.</p>
+</section>
+
+<footer>
+  <p>© 2026 CCD Aerial Solutions</p>
+</footer>
+
+</body>
+</html>

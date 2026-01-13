@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | CCD Aerial Solutions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <img src="logo.png" class="logo">
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h1>About CCD Aerial Solutions</h1>
+  <p>
+    CCD Aerial Solutions is a locally owned drone service based in Marion, Kentucky.
+    We focus on precision, reliability, and professionalism in every flight.
+  </p>
+  <p>
+    From farmland and construction sites to real estate and events, our mission
+    is to deliver clear, accurate aerial results you can trust.
+  </p>
+</section>
+
+<footer>
+  <p>Peak Kentucky Precision</p>
+</footer>
+
+</body>
+</html>
